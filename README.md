@@ -1,6 +1,6 @@
 # Hi there! I'm Mohamed Khaled Kamal 👋🏼
 
-<img src="./Mohamed-Khaled-Developer.png" alt="mypic" width="100%" height="700" />
+<img src="./Mohamed-Khaled-Developer.png" alt="mypic" width="80%" height="700" />
 
 🚀 **Front-End Developer** with expertise in building modern, responsive, and interactive web applications.  
 🎨 Passionate about **React.js**, **TypeScript**, and **Tailwind CSS**, with a focus on crafting pixel-perfect UI/UX designs.  
